@@ -20,7 +20,7 @@ The following things are randomized:
 
 
 ### Resources
-The most complete resource for the randomizer, including maps of all locations, can be found [here](https://docs.google.com/document/d/e/2PACX-1vQrBNKQQnZ1xtjDzbWabN5tjd7801j2jAvz9-QNC1acpMxGioExWfzbfOOMGKk9f5MkL5MHCofVeaEc/pub).
+The most complete resource for the randomizer, including maps of all locations, can be found [here]
 
 ### Usage
 Download the latest zip from the [releases] page, you'll need all the files it comes with. Choose a seed or leave it default, choose settings and gimmicks, then hit randomize. You'll need to provide an EU copy of Minish Cap, don't ask us where to get one. Hitting 'Save ROM' will prompt you to save the randomized game. You can also save a spoiler log for if you get stuck/want some help.
